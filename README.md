@@ -10,7 +10,8 @@
 
 ## 🎒 Experience
 - 2024.07. ~ 2025.02. | 연합 웹 개발 동아리 PIROGRAMMING 21기 & 22기 운영진
-- 2024.09. ~ | GDG on CAU (Google Developer Group) 4기 멤버
+- 2024.09. ~ 2525.09. | GDG on CAU (Google Developer Group) 4기 멤버
+- 2025.09. ~ | UMC 중앙대학교 9th 챌린저
 
 
 ## 📝 Project
