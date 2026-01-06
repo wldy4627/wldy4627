@@ -11,7 +11,7 @@
 ## 🎒 Experience
 - 2022.12. ~ 2023.11. | 중앙대학교 소프트웨어학부 제51대 부학생회장 & 정학생회장 권한대행
 - 2024.07. ~ 2025.02. | 연합 웹 개발 동아리 PIROGRAMMING 21기 & 22기 회장
-- 2024.09. ~ 2525.09. | GDG on CAU (Google Developer Group) 4기 멤버
+- 2024.09. ~ 2025.09. | GDG on CAU (Google Developer Group) 4기 멤버
 - 2025.09. ~ | UMC 중앙대학교 9th 챌린저
 
 
